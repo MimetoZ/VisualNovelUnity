@@ -1,0 +1,4 @@
+enter Isabelle "Hello world!"
+Isabelle "world!"
+World "Hello back!"
+Narrator "And that how ended the dialogue."

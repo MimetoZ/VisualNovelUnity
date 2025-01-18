@@ -1,0 +1,19 @@
+Detective: "Alright, we have got a new lead. The witness described a man in a brown jacket, around six feet tall, possibly in his mid-thirties. Let us start checking nearby surveillance footage."
+
+Partner: "Got it. I will head to the convenience store on Fifth and check the cameras there. Do you want me to check with the bartender at the pub too? It might be worth asking if anyone has seen someone matching that description."
+
+Detective: "Good idea. The pub is a popular spot, so there is a chance someone saw him. Also, do not forget to check if the guy has any previous records. Let us see if this connects to anything we have worked on before."
+
+Partner: "Will do. What about the car? Any sign of it yet?"
+
+Detective: "Not yet. We are still waiting for the plate number from that traffic camera on Oak Street. We might have to dig deeper into that route."
+
+Partner: "Alright, I will keep my eyes on it. Should we check in with the precinct in an hour or two to update them?"
+
+Detective: "Yes, let us circle back in a bit. We might have a better picture once we get those video clips."
+
+Partner: "Sounds good. Let us stay sharp and make sure we are covering all bases."
+
+Detective: "Exactly. We are getting closer. Let us see where this lead takes us."
+
+

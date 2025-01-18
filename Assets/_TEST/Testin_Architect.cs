@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using DIALOGUE;
 
 namespace TETING
 {
@@ -19,8 +20,8 @@ namespace TETING
             "Pellentesque ac libero pharetra augue ornare semper non eu purus."
         };
 
-        string lineLong = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed nisi sit amet lacus mollis bibendum. " +
-            "Vivamus suscipit tempus dolor, quis gravida turpis. Sed ut sem eget mi facilisis cursus sit amet et risus.";
+        //string lineLong = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed nisi sit amet lacus mollis bibendum. " +
+        //    "Vivamus suscipit tempus dolor, quis gravida turpis. Sed ut sem eget mi facilisis cursus sit amet et risus.";
 
         // Start is called before the first frame update
         void Start()
